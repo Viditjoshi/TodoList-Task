@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Task-Todo
 Todo App
 A simple and responsive Todo application built with React and Redux, allowing users to manage their tasks efficiently. This app demonstrates the use of Redux Toolkit for state management and provides an intuitive interface to add, toggle, and manage todos.
@@ -41,3 +42,14 @@ Enter a new task in the input field and click "Add" to add it to your list.
 Click the checkbox next to each task to mark it as completed or pending.
 The status of each task will be displayed as either "completed" or "pending."
 Future Enhancements
+=======
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+>>>>>>> 043c951 (first commit)
+# TodoList-Task
