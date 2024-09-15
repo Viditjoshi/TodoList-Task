@@ -41,5 +41,3 @@ Enter a new task in the input field and click "Add" to add it to your list.
 Click the checkbox next to each task to mark it as completed or pending.
 The status of each task will be displayed as either "completed" or "pending."
 Future Enhancements
-Implement task prioritization and filtering options.
-Add local storage or database integration for persistent state.
